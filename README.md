@@ -2,6 +2,9 @@
 
 Build your own not-quite-[Twitter](https://twitter.com/)!
 
+## RESTful Routes Initial Design
+![](routes.jpg)
+
 ## Starter Code
 
   This starter code implements users (with login/sessions), and freets so that you may focus on implementing your own design ideas.
